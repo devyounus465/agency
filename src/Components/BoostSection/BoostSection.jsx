@@ -33,7 +33,7 @@ const BoostSection = () => {
           </button>
         </div>
         <div className="lg:flex-1">
-          <img src="/src/assets/service.png" alt="" />
+          <img src="https://i.ibb.co/f1PYShf/service.png" alt="" />
         </div>
       </div>
     </div>

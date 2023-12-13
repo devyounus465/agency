@@ -5,7 +5,7 @@ const Hero = () => {
     <div
       className="flex items-center h-screen bg-gray-100 "
       style={{
-        background: 'url("/src/assets/hero.png")',
+        background: 'url("https://i.ibb.co/4VT6vjW/hero.png")',
         backgroundSize: "contain",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center right",

@@ -11,7 +11,7 @@ const Banner = ({ pageTitle }) => {
         <div>
           <img
             width={150}
-            src="/src/assets/business-concept-with-rocket-500px-2-min.png"
+            src="https://i.ibb.co/0YFgBWn/business-concept-with-rocket-500px-2-min.png"
             alt=""
           />
         </div>
