@@ -1,0 +1,42 @@
+[
+  {
+    "id": 12,
+    "name": "John Doe",
+    "location": "New York, NY",
+    "occupation": "Software Developer",
+    "testimonial": "I can't believe how amazing this product is! It has completely changed the way I work, and I've seen a significant improvement in my productivity. Highly recommended!",
+    "image": "https://i.ibb.co/kVnyLWF/avater-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "location": "Los Angeles, CA",
+    "occupation": "Marketing Manager",
+    "testimonial": "I've tried many products in the past, but this one stands out. The features are fantastic, and the user interface is so intuitive. It's a game-changer for anyone in marketing.",
+    "image": "https://i.ibb.co/tCHc1Tn/avatar-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "location": "Chicago, IL",
+    "occupation": "Small Business Owner",
+    "testimonial": "As a small business owner, finding the right tools is crucial. This product has exceeded my expectations. It's affordable, user-friendly, and has made managing my business much easier.",
+    "image": "https://i.ibb.co/kVnyLWF/avater-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "location": "San Francisco, CA",
+    "occupation": "Graphic Designer",
+    "testimonial": "I'm in love with the creativity this product allows. It has streamlined my design process, and the results are stunning. I recommend it to every graphic designer out there!",
+    "image": "https://i.ibb.co/tCHc1Tn/avatar-2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "David Miller",
+    "location": "Miami, FL",
+    "occupation": "Freelancer",
+    "testimonial": "As a freelancer, time is money. This product has saved me both. It's efficient, reliable, and has become an essential part of my workflow. Couldn't be happier!",
+    "image": "https://i.ibb.co/kVnyLWF/avater-1.jpg"
+  }
+]

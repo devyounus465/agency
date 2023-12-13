@@ -1,0 +1,11 @@
+.banner {
+  background: linear-gradient(
+      180deg,
+      rgba(7, 38, 209, 0.693),
+      rgba(48, 5, 189, 0.588)
+    ),
+    url("https://i.ibb.co/kG726mK/baner.png");
+  background-position: center center;
+  background-size: cover;
+  opacity: 0.9;
+}
