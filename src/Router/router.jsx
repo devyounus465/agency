@@ -6,6 +6,8 @@ import About from "../Pages/About/About";
 import ServicePage from "../Pages/Services/Services";
 import SignUp from "../Pages/SignUp/SignUp";
 import Login from "../Pages/Login/Login";
+import Shop from "../Pages/Shop/Shop";
+import SingleProduct from "../Pages/SingleProduct/SingleProduct";
 
 const router = createBrowserRouter([
   {
@@ -24,6 +26,15 @@ const router = createBrowserRouter([
       {
         path: "/services",
         element: <ServicePage />,
+      },
+      {
+        path: "/shop",
+        element: <Shop />,
+      },
+      {
+        path: "/single-product/:id",
+        element: <SingleProduct />,
+        loader: () => fetch("../products.json"),
       },
       {
         path: "/register",
